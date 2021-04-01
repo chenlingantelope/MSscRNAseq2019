@@ -22,3 +22,4 @@ Analysis for 2019 submission "Integrated single cell analysis of blood and cereb
 ## External Data Hosting
 Integrated dataset with cell level metadata and UMAP 
 https://figshare.com/articles/dataset/MS_CSF_h5ad/14356661
+Raw single-cell RNA-seq data from the present study have been deposited in GEO repository with the accession code GSE138266.
