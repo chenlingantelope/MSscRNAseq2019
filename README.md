@@ -18,3 +18,7 @@ Analysis for 2019 submission "Integrated single cell analysis of blood and cereb
   * All Ipython Notebooks used to generate relevant analysis and figures, supplementary figures in the paper. Note that these will not be able to cloned and run locally because not all raw data files are available online pre-publication. They are meant to show the analysis pipeline and details. Also some notebooks are named by the Figure and Table name when their role is simply generating figure and table output, while others are named by the name of the analysis (DE, CSEA, PropTest etc.) 
   * meta/: clustering results, cell disease state and batch id for our dataset
   * utils.py: Functions for generating some of the custom plots such as dotplots, gene expression heatmaps etc.
+
+## External Data Hosting
+Integrated dataset with cell level metadata and UMAP 
+https://figshare.com/articles/dataset/MS_CSF_h5ad/14356661
